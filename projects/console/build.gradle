@@ -1,0 +1,6 @@
+dependencies {
+    compile project(":projects:version")
+    compile project(":projects:list")
+    compile project(":projects:sizewhere")
+    compile project(":projects:find")
+}
